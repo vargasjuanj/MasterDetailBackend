@@ -1,0 +1,16 @@
+{
+  "denominacion": "Pizza Especial",
+  "tiempoPreparacion": 15,
+  "imagen": "url",
+  "precioVenta": 300.0,
+  "detallePlato": [
+    {
+      "cantidad": 1,
+      "articulo": "salsa"
+    },
+    {
+      "cantidad": 20,
+      "articulo": "aceituna"
+    }
+  ]
+}
